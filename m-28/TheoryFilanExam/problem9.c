@@ -1,9 +1,10 @@
-#include<stdio.h>
-#include<math.h>
-#include<string.h>
-#include<stdlib.h>
-
-int main(){
-
+#include <stdio.h>
+int main()
+{
+    int x = 10;
+    b = 20, c;
+    // a semantic error
+    x + y = c;
+    printf("%d", c);
     return 0;
 }
